@@ -2,6 +2,7 @@
 Autor: Ricardo Grijalva
 Fecha: 23/05/2020
 Editador por: Nataly Morales(version 1.1)
+DescripcionV1.1: realizar un codigo que permita pedir un mensaje y mostrarlo por consola.
 Version: 1.1*/
 #include <iostream>
 #include <string.h>
